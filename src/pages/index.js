@@ -100,9 +100,9 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>Attak Guitars</title>
       <h1 style={headingStyles}>
-        Congratulations
+        Welcome to Attak Guitars!
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
         <span role="img" aria-label="Party popper emojis">
